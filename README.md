@@ -2,10 +2,11 @@
 
 ## Internship Details
 
-* Name: Dibyajyoti Palei
-* Intern ID: CITS3229
-* Domain: Full Stack Web Development
-* Organization: CODTECH IT Solutions
+- Name: Nikhil Kumar Puhan
+- Intern ID: CITS3639
+- Domain: Python Programming
+- Organization: CODTECH IT Solutions
+- Duration: 4 Weeks
 
 ## Project Overview
 
@@ -18,6 +19,7 @@ A simple expense tracker dashboard that allows users to add, manage and track da
 * JavaScript
 
 ## Features
+
 
 * Add expenses
 * Delete expenses
